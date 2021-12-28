@@ -12,6 +12,7 @@ I am a creative person with experience of creating my own small successful busin
 
 *My-skills:* persistence in the goals set, self-learning, punctuality, friendliness, patience with others, desire and ability to work in a team, politeness, the skill to quickly find the necessary information. Psychological stability =)
 There is management experience (up to 3 people).
+
 ***
 ####Professional skills
 - Adobe Photoshop (high level knowledge)
@@ -19,6 +20,7 @@ There is management experience (up to 3 people).
 - Git, GitHub (in progress)
 - VS Code (in progress)
 - Keep learning!
+
 ***
 ####Code Example
 ```
@@ -26,12 +28,13 @@ function multiply(a, b){
 return a * b;
 }
 ```
+
 ***
 ####Work background
 - **Graphic Designer**
 PAO «LHFZ» | 2006-2011     
 
-- **Founder** | **Creative Director**
+- **Founder, Creative Director**
 «Serious Aloe» | 2011 - 2021
 
 - **Student**
@@ -48,8 +51,9 @@ Finance Specialist | 2003 - 2008
 - **English language course**
 [Newton](http://www.studionewtone.com.ua/)
 
-- **Financial management**     
-***
+- **Financial management** 
+
+---
 ####English
 **A2** *(B1 in active process)*
 
