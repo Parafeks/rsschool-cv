@@ -6,7 +6,7 @@
 - **Phone:** +38 (099) 006 74 60
 - **E-mail:** ywvv@gmail.com
 - **Telegram:** [parafekss](https://t-do.ru/parafekss)
-- **Discord:** Julia (@Parafeks)
+- **Discord:** Julia (@Parafeks)q
 
 ---
 #### My background

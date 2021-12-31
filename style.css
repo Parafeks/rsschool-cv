@@ -1,1 +1,105 @@
-/* Hello */
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;   
+    color: rgb(57, 61, 24);
+}
+
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+main {
+    padding-left: 30px;
+
+}
+
+body {
+    background: rgb(255, 253, 247);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    display: flex;
+    color: rgb(65, 5, 5); 
+    width: 500px;
+    height: 100px;
+    /* background-color: rgb(158, 0, 119); */
+}
+
+h1 {
+    padding-top: 20px;
+    padding-left: 120px;    
+}
+
+a {
+    color: rgb(74, 116, 194);
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    max-width: 500px;
+    flex-direction: column;
+    /* background-color: cyan;} */
+}
+
+.contacts {
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+
+
+.about {
+    width: 700px;
+    height: 150px;
+    /* text-align: justify; */
+}
+
+.text {
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    width:700px;
+    height: 150px;
+}
+
+.code {
+    padding-top: 20px;
+}
+
+.photo {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+}
+
+.code {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-color: rgb(0, 247, 255); */
+    width:700px;
+    height: 100px;
+    padding-left: 40px;
+}
+
+code {
+    padding-left: 110px;
+}
+
+
+
